@@ -27,8 +27,8 @@ Perfect for generating strong, secure passwords in seconds.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Seja-git/Task3_passwordGenerator.git
-   cd Task3_passwordGenerator
+   git clone https://github.com/Seja-git/OIBSIP_pythonProgramming_3.git
+   
 
 
 password-generator/
